@@ -1,1 +1,1 @@
-# LeagueofLegends.github.io
+# League-Of-Legends
